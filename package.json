@@ -1,0 +1,26 @@
+{
+  "name": "react-getting-started",
+  "version": "1.0.0",
+  "description": "React getting started",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/httpNick/react-getting-started.git"
+  },
+  "author": "httpNick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/httpNick/react-getting-started/issues"
+  },
+  "homepage": "https://github.com/httpNick/react-getting-started#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.0.15",
+    "babelify": "^7.2.0",
+    "falcor": "^0.1.14",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
