@@ -1,21 +1,21 @@
 {
   "name": "react-getting-started",
   "version": "1.0.0",
-  "description": "React getting started",
+  "description": "React-falcor tutorial",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/httpNick/react-getting-started.git"
+    "url": "git+https://github.com/httpNick/react-falcor.git"
   },
   "author": "httpNick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/httpNick/react-getting-started/issues"
+    "url": "https://github.com/httpNick/react-falcor/issues"
   },
-  "homepage": "https://github.com/httpNick/react-getting-started#readme",
+  "homepage": "https://github.com/httpNick/react-falcor#readme",
   "dependencies": {
     "babel-preset-react": "^6.0.15",
     "babelify": "^7.2.0",
